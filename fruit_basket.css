@@ -1,0 +1,12 @@
+body{
+background-position:cover;
+}
+#back_button{
+background-color:black;
+color:white;
+float:right;
+}
+.heading{
+width:100%;
+font-size:20px;
+}
